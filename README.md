@@ -15,4 +15,6 @@ In no particular order, here are things to remember:
 - it's better to work together
 - don't underestimate your peers
 - don't assume people are dumb
-- do things once properly vs. fail quickly & cheaply
+- do things once properly or fail quickly & cheaply
+- not everybody needs to know everything
+- not everyone's job is equally "difficult", that doesn't mean the "easy" jobs are less important! everything has its place
