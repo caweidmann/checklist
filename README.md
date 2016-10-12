@@ -10,3 +10,9 @@ In no particular order, here are things to remember:
 - obvious links and headings
 - printer friendly pages (CSS)
 
+## team
+
+- it's better to work together
+- don't underestimate your peers
+- don't assume people are dumb
+- do things once properly vs. fail quickly & cheaply
