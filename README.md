@@ -11,6 +11,7 @@ In no particular order, here are things to remember:
 - bigger text, less text
 - links to more complete information (e.g. read more)
 - printer friendly pages (CSS)
+- build code that is independant of interface
 
 ## team
 
@@ -21,8 +22,12 @@ In no particular order, here are things to remember:
 - not everybody needs to know everything
 - not everyone's job is equally "difficult", that doesn't mean the "easy" jobs are less important! everything has its place
 
-## general
+## random
 
 - learn to laugh about your failures and mistakes
 - rub ears outward till warm & red, this increases hearing instantly and increases concentration
 - drink a glass of water to help concentrate (brings oxygen to the brain)
+
+## quotes
+
+- when you do things right people won't be sure you've done anything at all
