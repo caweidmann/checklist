@@ -20,3 +20,7 @@ In no particular order, here are things to remember:
 - do things once properly or fail quickly & cheaply
 - not everybody needs to know everything
 - not everyone's job is equally "difficult", that doesn't mean the "easy" jobs are less important! everything has its place
+
+## general
+
+- learn to laugh about your failures and mistakes
