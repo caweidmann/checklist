@@ -1,13 +1,15 @@
 # checklist
 
 In no particular order, here are things to remember:
+
+## front-end
+
 - asynchronous loading of images, gifs, videos, gadtes etc.
 - notification if javascript is disabled
 - only load data necessary to display contents
-- obvious, consistent navigation
+- obvious, consistent navigation, links and headings
 - bigger text, less text
 - links to more complete information (e.g. read more)
-- obvious links and headings
 - printer friendly pages (CSS)
 
 ## team
