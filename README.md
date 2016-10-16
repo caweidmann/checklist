@@ -27,7 +27,3 @@ In no particular order, here are things to remember:
 - learn to laugh about your failures and mistakes
 - rub ears outward till warm & red, this increases hearing instantly and increases concentration
 - drink a glass of water to help concentrate (brings oxygen to the brain)
-
-## quotes
-
-- when you do things right people won't be sure you've done anything at all
