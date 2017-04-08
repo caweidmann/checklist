@@ -4,7 +4,7 @@ In no particular order, here are things to remember:
 
 ## front-end
 
-- asynchronous loading of images, gifs, videos, gadtes etc.
+- asynchronous loading of images, gifs, videos etc.
 - notification if javascript is disabled
 - only load data necessary to display contents
 - obvious, consistent navigation, links and headings
