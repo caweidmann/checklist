@@ -1,4 +1,4 @@
-# life quotes
+# Life quotes
 
 - "When you do things right, people won't be sure that you have done anything at all." - Futurama
 - "Every student can learn, just not on the same day, or the same way." - George Evans
