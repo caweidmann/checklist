@@ -1,29 +1,28 @@
-# checklist
+# A random checklist
 
 In no particular order, here are things to remember:
 
-## front-end
+## Front-end
 
-- asynchronous loading of images, gifs, videos etc.
-- notification if javascript is disabled
-- only load data necessary to display contents
-- obvious, consistent navigation, links and headings
-- bigger text, less text
-- links to more complete information (e.g. read more)
-- printer friendly pages (CSS)
-- build code that is independant of interface
+- Always load images, gifs, videos etc. asynchronously
+- Notification if JavaScript is disabled
+- Only load data necessary to display contents
+- Obvious, consistent navigation, links and headings
+- Bigger text, less text
+- Links to more complete information (e.g. read more)
+- Printer friendly pages (CSS)
+- Build code that is independant of interface
 
-## team
+## Team
 
-- it's better to work together
-- don't underestimate your peers
-- don't assume people are dumb
-- do things once properly or fail quickly & cheaply
-- not everybody needs to know everything
-- not everyone's job is equally "difficult", that doesn't mean the "easy" jobs are less important! everything has its place
+- It's better to work together
+- Don't underestimate your peers
+- Don't assume people are dumb
+- Not everybody needs to know everything
+- Not everyone's job is equally "difficult" - that does not mean the "easy" jobs are less important! Everything has its place
 
-## random
+## Random
 
-- learn to laugh about your failures and mistakes
-- rub ears outward till warm & red, this increases hearing instantly and increases concentration
-- drink a glass of water to help concentrate (brings oxygen to the brain)
+- Learn to laugh about your failures and mistakes
+- Rub your ears outward till warm & red, this increases hearing instantly and increases concentration
+- Drink a glass of water to help concentrate (brings oxygen to the brain)
