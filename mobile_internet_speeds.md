@@ -9,3 +9,10 @@ E      | 217.6 Kb/s   | 108.8 Kb/s | EDGE (Enhanced Data rates for GSM Evolution
 H      | 7.2 Mb/s     | 3.6 Mb/s   | HSPA (High-Speed Packet Access)
 H+     | 14.4 Mb/s    | 5.76 Mb/s  | HSPA+ (Evolved High-Speed Packet Access)
 4G     | 100 Mb/s     | 50 Mb/s    | LTE (Long Term Evolution)
+
+    Kb = Kilobit
+    KB = Kilobyte (8Kb = 1KB)
+    Mb = Megabit
+    MB = Megabyte (8Mb = 1MB)
+
+E.g. the 100 Mb/s connection will be able to download 12.5 MB per second
