@@ -1,5 +1,5 @@
-# code quotes
+# Code quotes
 
-- don't get precious about your code
-- flat is better than nested
-- write your code so that it can be easily deleted
+- Don't get precious about your code
+- Flat is better than nested
+- Write your code so that it can be easily deleted
